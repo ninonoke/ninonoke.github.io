@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.0ede5e5d.chunk.css",
-    "main.js": "/static/js/main.7e4cb9fc.chunk.js",
-    "main.js.map": "/static/js/main.7e4cb9fc.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.222789c5.js",
-    "runtime-main.js.map": "/static/js/runtime-main.222789c5.js.map",
-    "static/js/2.81c10b60.chunk.js": "/static/js/2.81c10b60.chunk.js",
-    "static/js/2.81c10b60.chunk.js.map": "/static/js/2.81c10b60.chunk.js.map",
-    "static/js/3.230d3a82.chunk.js": "/static/js/3.230d3a82.chunk.js",
-    "static/js/3.230d3a82.chunk.js.map": "/static/js/3.230d3a82.chunk.js.map",
+    "main.css": "/static/css/main.dca67bb2.chunk.css",
+    "main.js": "/static/js/main.60b6fd31.chunk.js",
+    "main.js.map": "/static/js/main.60b6fd31.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.aae5eb34.js",
+    "runtime-main.js.map": "/static/js/runtime-main.aae5eb34.js.map",
+    "static/js/2.31a57cb2.chunk.js": "/static/js/2.31a57cb2.chunk.js",
+    "static/js/2.31a57cb2.chunk.js.map": "/static/js/2.31a57cb2.chunk.js.map",
+    "static/js/3.0e79bede.chunk.js": "/static/js/3.0e79bede.chunk.js",
+    "static/js/3.0e79bede.chunk.js.map": "/static/js/3.0e79bede.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.f3663dff98032e374c72049c831f0f18.js": "/precache-manifest.f3663dff98032e374c72049c831f0f18.js",
+    "precache-manifest.af9af817f335dd8d1286b66307f07484.js": "/precache-manifest.af9af817f335dd8d1286b66307f07484.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.0ede5e5d.chunk.css.map": "/static/css/main.0ede5e5d.chunk.css.map",
-    "static/js/2.81c10b60.chunk.js.LICENSE.txt": "/static/js/2.81c10b60.chunk.js.LICENSE.txt",
+    "static/css/main.dca67bb2.chunk.css.map": "/static/css/main.dca67bb2.chunk.css.map",
+    "static/js/2.31a57cb2.chunk.js.LICENSE.txt": "/static/js/2.31a57cb2.chunk.js.LICENSE.txt",
     "static/media/styles.scss": "/static/media/MediaBackground.f3e435d8.png",
     "static/media/Arrow-yellow.svg": "/static/media/Arrow-yellow.f092c59e.svg",
     "static/media/Arrow.svg": "/static/media/Arrow.e0c2a95c.svg",
@@ -24,9 +24,9 @@
     "static/media/Rectangle3.png": "/static/media/Rectangle3.a7f6435d.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.222789c5.js",
-    "static/js/2.81c10b60.chunk.js",
-    "static/css/main.0ede5e5d.chunk.css",
-    "static/js/main.7e4cb9fc.chunk.js"
+    "static/js/runtime-main.aae5eb34.js",
+    "static/js/2.31a57cb2.chunk.js",
+    "static/css/main.dca67bb2.chunk.css",
+    "static/js/main.60b6fd31.chunk.js"
   ]
 }
